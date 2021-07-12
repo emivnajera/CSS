@@ -1,0 +1,12 @@
+Especifidad
+
+!Important
+
+Estilos en Linea
+
+Identificadores
+clasespseudo-clases
+atrinutos
+
+elemoentos
+pseudo elementos

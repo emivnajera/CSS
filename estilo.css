@@ -1,0 +1,27 @@
+*{
+    color: red;
+}
+
+h1{
+    color: royalblue;
+}
+
+.texto{
+    color:black;
+}
+
+#boton{
+    color: blueviolet;
+}
+
+[atributo = "valor"]{
+    color: chartreuse;
+}
+
+h2 p{
+    color: chocolate;
+}
+
+#boton :hover{
+    color:cyan;
+}
