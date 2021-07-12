@@ -1,0 +1,13 @@
+.contact-form{
+    font-size: 25px;
+}
+
+.contact-form__h2 {
+    font-size: 5em;
+    font-family: 'Qahiri', sans-serif;
+    line-height: 1.9;
+    font-weight: normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+    color: darkblue;
+}
