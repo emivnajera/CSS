@@ -1,0 +1,20 @@
+div{
+    width: 150px;
+    height: 150px;
+    display: block;
+    background: yellow;
+}
+
+.caja1 {
+    background-color: orange;
+}
+
+.caja2 {
+    background-color: green;
+    position: absolute;
+    opacity: .5;
+}
+
+.caja3 {
+    background-color: lightblue;
+}

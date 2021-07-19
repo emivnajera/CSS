@@ -14,4 +14,6 @@ h2{
     margin: 20px 10px;
     border-radius: 2em;
     border: 10px solid blue;
+    box-shadow: 2px, 4px, 15px, 30px black;
+    text-shadow: 2px, 2px, 7px white;
 }
