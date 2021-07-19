@@ -3,3 +3,13 @@ Estructura en CSS
 selector {
 	propiedad: valor;
 }
+
+Selectores:
+
+Universal - *
+De Tipo
+Clase
+ID
+Atributo
+Descendiente
+Pseudoclases
